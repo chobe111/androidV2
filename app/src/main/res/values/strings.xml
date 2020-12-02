@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcuPointVer2</string>
+    <string name="no_camera_access">there is no camera</string>
+</resources>
